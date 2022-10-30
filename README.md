@@ -25,7 +25,7 @@
 
 ## Contato:
 
-<div>
+<div style="display: inline_block">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marianwiermann?tab=repositories)](https://github.com/marianwiermann?tab=repositories)
 
