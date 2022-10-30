@@ -26,5 +26,9 @@
 ## Contato:
 
 <div>
-  <a href="https://www.linkedin.com/in/marianwiermann/"><img src=https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="\_blank"></a>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marianwiermann?tab=repositories)](https://github.com/marianwiermann?tab=repositories)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianwiermann/)](https://www.linkedin.com/in/marianwiermann/)
+
 </div>
