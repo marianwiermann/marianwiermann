@@ -17,10 +17,6 @@
   <img align="center" height="50" width="50" src="/image/vs-code.png">
 </div>
 
-## Estou me apronfundando no momento:
-
-<img align="center" height="50" width="50" src="/image/javascript.svg">
-
 ## Contato:
 
 <div style="display: inline_block">
