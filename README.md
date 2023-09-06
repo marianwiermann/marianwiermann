@@ -1,8 +1,6 @@
 <h1> Hey! </h1>
 <h2> Prazer, me chamo Márian Wiermann </h2>
 
-:seedling: Formada em arquitetura e urbanismo, atualmente estudo Desenvolvimento Front-End para entrar em uma nova fase de vida.
-<br>
 :earth_americas:São Paulo - Brasil
 
 :purple_heart:Entusiasta de berço e lifelong learning de carteirinha.
